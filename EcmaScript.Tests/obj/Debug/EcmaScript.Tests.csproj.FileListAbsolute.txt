@@ -1,0 +1,11 @@
+C:\Home\Projects\EcmaScript\EcmaScript.Tests\obj\Debug\EcmaScript.Tests.csprojResolveAssemblyReference.cache
+C:\Home\Projects\EcmaScript\EcmaScript.Tests\bin\Debug\EcmaScript.Tests.dll
+C:\Home\Projects\EcmaScript\EcmaScript.Tests\bin\Debug\EcmaScript.Tests.pdb
+C:\Home\Projects\EcmaScript\EcmaScript.Tests\obj\Debug\EcmaScript.Tests.dll
+C:\Home\Projects\EcmaScript\EcmaScript.Tests\obj\Debug\EcmaScript.Tests.pdb
+C:\Home\Projects\EcmaScript\EcmaScript.Tests\bin\Debug\EcmaScript.Compiler.exe
+C:\Home\Projects\EcmaScript\EcmaScript.Tests\bin\Debug\EcmaScript.IL.dll
+C:\Home\Projects\EcmaScript\EcmaScript.Tests\bin\Debug\EcmaScript.Compiler.pdb
+C:\Home\Projects\EcmaScript\EcmaScript.Tests\bin\Debug\EcmaScript.IL.pdb
+C:\Home\Projects\EcmaScript\EcmaScript.Tests\bin\Debug\EcmaScript.Runtime.exe
+C:\Home\Projects\EcmaScript\EcmaScript.Tests\bin\Debug\EcmaScript.Runtime.pdb

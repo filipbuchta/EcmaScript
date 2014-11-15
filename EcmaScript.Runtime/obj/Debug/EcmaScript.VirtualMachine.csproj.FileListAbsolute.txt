@@ -1,0 +1,7 @@
+C:\Home\Projects\EcmaScript\EcmaScript.VirtualMachine\obj\Debug\EcmaScript.VirtualMachine.csprojResolveAssemblyReference.cache
+C:\Home\Projects\EcmaScript\EcmaScript.VirtualMachine\obj\Debug\SharpNES.exe
+C:\Home\Projects\EcmaScript\EcmaScript.VirtualMachine\bin\Debug\SharpNES.exe
+C:\Home\Projects\EcmaScript\EcmaScript.VirtualMachine\bin\Debug\SharpNES.pdb
+C:\Home\Projects\EcmaScript\EcmaScript.VirtualMachine\obj\Debug\SharpNES.pdb
+C:\Home\Projects\EcmaScript\EcmaScript.VirtualMachine\bin\Debug\met.dll
+C:\Home\Projects\EcmaScript\EcmaScript.VirtualMachine\bin\Debug\met.pdb

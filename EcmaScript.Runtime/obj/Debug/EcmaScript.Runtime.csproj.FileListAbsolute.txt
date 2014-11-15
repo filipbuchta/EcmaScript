@@ -1,0 +1,7 @@
+C:\Home\Projects\EcmaScript\EcmaScript.Runtime\bin\Debug\EcmaScript.Runtime.exe
+C:\Home\Projects\EcmaScript\EcmaScript.Runtime\bin\Debug\EcmaScript.Runtime.pdb
+C:\Home\Projects\EcmaScript\EcmaScript.Runtime\bin\Debug\EcmaScript.IL.dll
+C:\Home\Projects\EcmaScript\EcmaScript.Runtime\bin\Debug\EcmaScript.IL.pdb
+C:\Home\Projects\EcmaScript\EcmaScript.Runtime\obj\Debug\EcmaScript.Runtime.csprojResolveAssemblyReference.cache
+C:\Home\Projects\EcmaScript\EcmaScript.Runtime\obj\Debug\EcmaScript.Runtime.exe
+C:\Home\Projects\EcmaScript\EcmaScript.Runtime\obj\Debug\EcmaScript.Runtime.pdb

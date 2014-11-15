@@ -1,0 +1,5 @@
+C:\Home\Projects\SharpNES\SharpNES\bin\Debug\SharpNES.exe
+C:\Home\Projects\SharpNES\SharpNES\bin\Debug\SharpNES.pdb
+C:\Home\Projects\SharpNES\SharpNES\obj\Debug\SharpNES.csprojResolveAssemblyReference.cache
+C:\Home\Projects\SharpNES\SharpNES\obj\Debug\SharpNES.exe
+C:\Home\Projects\SharpNES\SharpNES\obj\Debug\SharpNES.pdb

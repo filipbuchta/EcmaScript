@@ -1,0 +1,5 @@
+C:\Home\Projects\JavaScript\JavaScript.Engine\obj\Debug\SharpNES.exe
+C:\Home\Projects\JavaScript\JavaScript.Engine\obj\Debug\SharpNES.pdb
+C:\Home\Projects\JavaScript\JavaScript.Engine\bin\Debug\SharpNES.exe
+C:\Home\Projects\JavaScript\JavaScript.Engine\bin\Debug\SharpNES.pdb
+C:\Home\Projects\JavaScript\JavaScript.Engine\obj\Debug\JavaScript.Engine.csprojResolveAssemblyReference.cache

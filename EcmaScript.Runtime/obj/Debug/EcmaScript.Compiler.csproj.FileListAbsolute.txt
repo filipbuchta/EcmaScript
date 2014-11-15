@@ -1,0 +1,1 @@
+C:\Home\Projects\EcmaScript\EcmaScript.Compiler\obj\Debug\SharpNES.exe

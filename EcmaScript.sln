@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.30626.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcmaScript.Compiler", "EcmaScript.Compiler\EcmaScript.Compiler.csproj", "{79A11015-B16C-4A65-ADC4-FB8406DAE5DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcmaScript.Tests", "EcmaScript.Tests\EcmaScript.Tests.csproj", "{A940EB55-12C5-4DE7-9110-41660A33BB32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcmaScript.IL", "EcmaScript.IL\EcmaScript.IL.csproj", "{912FEF1A-1501-4EA9-876D-658A2BA496FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcmaScript.Runtime", "EcmaScript.Runtime\EcmaScript.Runtime.csproj", "{4FB3A454-D61B-4965-8766-2BB9911C0898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79A11015-B16C-4A65-ADC4-FB8406DAE5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A11015-B16C-4A65-ADC4-FB8406DAE5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A11015-B16C-4A65-ADC4-FB8406DAE5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A11015-B16C-4A65-ADC4-FB8406DAE5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A940EB55-12C5-4DE7-9110-41660A33BB32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A940EB55-12C5-4DE7-9110-41660A33BB32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A940EB55-12C5-4DE7-9110-41660A33BB32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A940EB55-12C5-4DE7-9110-41660A33BB32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{912FEF1A-1501-4EA9-876D-658A2BA496FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912FEF1A-1501-4EA9-876D-658A2BA496FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912FEF1A-1501-4EA9-876D-658A2BA496FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912FEF1A-1501-4EA9-876D-658A2BA496FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB3A454-D61B-4965-8766-2BB9911C0898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB3A454-D61B-4965-8766-2BB9911C0898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB3A454-D61B-4965-8766-2BB9911C0898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB3A454-D61B-4965-8766-2BB9911C0898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
